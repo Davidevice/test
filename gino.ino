@@ -27,8 +27,8 @@ int stateCheck = LOW;
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "davidevice"
-#define AIO_KEY         "31a0e3ec7bd04636a485c05bd28b55b4"
+#define AIO_USERNAME    "dce"
+#define AIO_KEY         "3d5d5d5d5d5d5d5d5d5d58b55b4"
 
 const char MQTT_SERVER[] PROGMEM    = AIO_SERVER;
 const char MQTT_USERNAME[] PROGMEM  = AIO_USERNAME;
