@@ -48,7 +48,7 @@ CTBot myBot;
 CTBotInlineKeyboard myKbd;
 WiFiClient client;
 #define HOSTNAME "Telegram BOt"
-String token = "1180054157:AAHSy0hngOFOborwhvLVmkLBVNgJXjPH--8";
+String token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 long previousMillis = 0;
 long interval = 10000;
